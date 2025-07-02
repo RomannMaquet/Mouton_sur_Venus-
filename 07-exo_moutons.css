@@ -1,0 +1,49 @@
+
+main {
+    
+}
+
+img {
+    border-top-left-radius: 25px;
+}
+
+
+
+body {
+    border : solid 1px rgb(178, 178, 243);
+    width: 350px ;
+    height: 500px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    margin-top: 30px ;
+    margin-left: 30px;
+}
+
+
+
+article{
+    
+    margin: 30px;/* margin-top: 50px;
+    margin-bottom: 50px;*/
+    font-family: "Great Vibes", cursive;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+
+
+footer p { /* style pour une classe */
+    border-top : solid 1px black ; /* style (obligatoire) : solid, dashed, dotted, wavy, ....+ (optionnel) couleur, taille */
+    margin:30px;
+    padding:20px;
+    color:black;
+    text-decoration: line-through aqua;
+    text-align: center;
+    font-size:25px;
+    font-family: sans-serif ;
+    font-style: italic;
+}
+
+
+    /* style pour un ID */
